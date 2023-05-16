@@ -9,9 +9,9 @@
 
 ## installation
 
--[MySQL](https://dev.mysql.com/downloads/installer/).
--[XAMMP](https://www.apachefriends.org/).
--[Composser](https://getcomposer.org/).
+- [MySQL](https://dev.mysql.com/downloads/installer/).
+- [XAMMP](https://www.apachefriends.org/).
+- [Composser](https://getcomposer.org/).
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
